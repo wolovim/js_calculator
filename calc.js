@@ -1,0 +1,2 @@
+
+alert("JS is live");
